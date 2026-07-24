@@ -9,7 +9,6 @@
   <div class="presentation-row">
     <div class="presentation-media">
       <img src="{{ presentation.image }}" class="presentation-cover" alt="{{ presentation.title }} cover">
-      <abbr class="badge">Presentation</abbr>
     </div>
 
     <div class="presentation-content">
