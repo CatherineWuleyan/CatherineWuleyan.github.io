@@ -4,7 +4,10 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Hi, I am Leyan Wu. I am an undergraduate student in Physics and Economics at Yuanpei College, Peking University. 
+
+[📄 **View my Curriculum Vitae (PDF)**](assets/files/CV_ENG.pdf)
+
 
 ## Research Interests
 
