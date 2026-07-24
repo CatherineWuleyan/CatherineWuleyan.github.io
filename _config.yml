@@ -10,10 +10,6 @@ keywords: minimal light
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/ 
 
-# Links 
-# If you don't need one of them, you may delete the corresponding line.
-cv_link: assets/files/CV_ENG.pdf
-
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/IMG_8739.JPG
