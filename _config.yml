@@ -1,8 +1,8 @@
 # Basic Information 
-title: Leyan Wu （吴乐言） 
-position: Undergraduate in Physics & Economics   
-affliation: Yuanpei College , Peking University
-email: catherinewu@stu.pku.edu.cn  
+title: Leyan Wu （吴乐言） 
+position: Undergraduate in Physics & Economics   
+affiliation: Yuanpei College, Peking University
+email: catherinewu@stu.pku.edu.cn  
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -34,7 +34,6 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-
 google_analytics: UA-111540567-4
 
 # Use this project as a remote theme for GitHub Pages
