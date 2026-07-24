@@ -1,0 +1,10 @@
+main:
+  - title: KPZ Universality and Nonequilibrium Surface Growth
+    date: Group Meeting, 2026
+    image: ./assets/presentations/KPZ_cover.png
+    pdf: ./assets/presentations/KPZ universality.pdf
+
+  - title: Memristors for Neuromorphic Computing
+    date: Group Meeting, 2025
+    image: ./assets/presentations/Memristors_cover.png
+    pdf: ./assets/presentations/Memristors.pdf

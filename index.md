@@ -51,4 +51,6 @@ Currently, I am an **undergraduate researcher** working on **electronic transpor
 
 {% include_relative _includes/projects.md %}
 
+{% include_relative _includes/presentations.md %}
+
 {% include_relative _includes/notes.md %}

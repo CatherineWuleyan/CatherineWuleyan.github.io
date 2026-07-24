@@ -27,6 +27,9 @@
       {% if project.doc %} 
       <a href="{{ project.doc }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Docs</a>
       {% endif %}
+      {% if project.slides %}
+      <a href="{{ project.slides }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides</a>
+      {% endif %}
       {% if project.code %} 
       <a href="{{ project.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}

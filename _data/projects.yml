@@ -1,0 +1,5 @@
+main:
+  - title: Experimental and Simulative Study on Rabi Splitting and PT Symmetry Breaking
+    image: ./assets/projects/Rabi/Rabi_cover.png
+    doc: ./assets/projects/Rabi/基于虚拟仪器技术的拉比劈裂及PT对称性破缺研究.pdf
+    slides: ./assets/projects/Rabi/基于虚拟仪器技术的拉比劈裂及PT对称性破缺研究_slides.pdf
