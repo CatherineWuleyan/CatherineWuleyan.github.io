@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-I am fascinated by how the world works—from the fundamental laws of nature to the complex systems shaped by human society. My interests span **physics**, **economics**, and **artificial intelligence**, driven by a common motivation: to understand, model, and explain the principles underlying complex phenomena.
+I am fascinated by how the world works—from the fundamental laws of nature to the complex systems shaped by human society. My interests span **physics**, **economics**, and **artificial intelligence**, driven by a common motivation: to understand, model, and explain the principles underlying **complex phenomena**.
 
 Currently, I am an **undergraduate researcher** working on **electronic transport in two-dimensional van der Waals heterostructures**. My research combines **condensed matter experiments** with first-principles calculations to investigate emergent interfacial electronic phenomena in low-dimensional quantum materials. More broadly, I am interested in bridging physics, computation, and data-driven methods to accelerate scientific discovery.
 
@@ -25,7 +25,7 @@ Currently, I am an **undergraduate researcher** working on **electronic transpor
   - Materials informatics
 
 - **Artificial Intelligence**
-  - AI for Scientific Discovery
+  - AI for Science
   - LLM Agents
   - Computer Vision 
   - Computational Neuroscience
@@ -43,8 +43,8 @@ Currently, I am an **undergraduate researcher** working on **electronic transpor
 ## Selected Honors
 
 - **Yanchuang Group Scholarship**, Peking University, 2025
-- **Second-Class Freshman Scholarship**, Peking University, 2025
-- **Merit Student**, Peking University, 2024
+- **Second-Class Freshman Scholarship**, Peking University, 2024
+- **Merit Student**, Peking University, 2025
 - **Major Rank 1/28 (Top 1%)**, Yuanpei College, Peking University
 
 ---
