@@ -8,9 +8,14 @@ email: catherinewu@stu.pku.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/ 
+keywords: "Leyan Wu, 吴乐言, Peking University, condensed matter physics, materials science, AI for Science"
+description: "Personal academic homepage of Leyan Wu (吴乐言), an undergraduate student at Peking University working on condensed matter physics, materials science, and AI for Science."
+canonical: "https://catherinewuleyan.github.io/"
+url: "https://catherinewuleyan.github.io"
+baseurl: ""
+
+plugins:
+  - jekyll-sitemap
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
