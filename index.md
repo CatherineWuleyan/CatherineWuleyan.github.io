@@ -33,7 +33,7 @@ Currently, I am an **undergraduate researcher** working on **electronic transpor
 ---
 
 ## News
-
+- **Aug. 2026** Joined DPTechnology as an intern, working on AI for Science.
 - **Jul. 2026** Developing an AI-assisted workflow for first-principles calculations using Codex and VASP.
 - **Aug. 2025** Joined Prof. Yu Ye's group at Peking University, working on transport phenomena in two-dimensional heterostructures.
 - **Feb. 2025** Started undergraduate research on PT-symmetry breaking and Rabi splitting based on virtual instrumentation.
