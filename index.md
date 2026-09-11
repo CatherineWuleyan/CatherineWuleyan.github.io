@@ -8,7 +8,7 @@ I am fascinated by how the world works—from the fundamental laws of nature to 
 Currently, I am an **undergraduate researcher** working on **electronic transport in two-dimensional van der Waals heterostructures**. My research combines **condensed matter experiments** with first-principles calculations to investigate emergent interfacial electronic phenomena in low-dimensional quantum materials. More broadly, I am interested in bridging physics, computation, and data-driven methods to accelerate scientific discovery.
 
 
-📄 **[Curriculum Vitae](assets/files/CV_ENG.pdf)**
+📄 **[CV](assets/files/CV_qr_eng.pdf)**  
 
 ---
 
