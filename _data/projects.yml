@@ -1,4 +1,7 @@
 main:
+  - title: "DP Technology — Agent Harness Intern"
+    image: ./assets/projects/AgentHarness/gaia_ir_concept.png
+    code: https://github.com/CatherineWuleyan/gaia-ir
   - title: Experimental and Simulative Study on Rabi Splitting and PT Symmetry Breaking
     image: ./assets/projects/Rabi/Rabi_cover.png
     doc: ./assets/projects/Rabi/基于虚拟仪器技术的拉比劈裂及PT对称性破缺研究.pdf

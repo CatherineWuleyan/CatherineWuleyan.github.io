@@ -3,9 +3,9 @@ layout: homepage
 ---
 
 ## About Me
-I am fascinated by how the world works—from the fundamental laws of nature to the complex systems shaped by human society. My interests span **physics**, **economics**, and **artificial intelligence**, driven by a common motivation: to understand, model, and explain the principles underlying **complex phenomena**.
+I'm currently a junior majoring in **Physics & Economics** in Yuanpei College, Peking University. I am fascinated by how the world works—from the fundamental laws of nature to the complex systems shaped by human society. My interests span **physics**, **economics**, and **artificial intelligence**, driven by a common motivation: to understand, model, and explain the principles underlying **complex phenomena**.
 
-Currently, I am an **undergraduate researcher** working on **electronic transport in two-dimensional van der Waals heterostructures**. My research combines **condensed matter experiments** with first-principles calculations to investigate emergent interfacial electronic phenomena in low-dimensional quantum materials. More broadly, I am interested in bridging physics, computation, and data-driven methods to accelerate scientific discovery.
+Currently, I am an **undergraduate researcher** working on **electronic transport in two-dimensional van der Waals heterostructures**, advised by **Prof. Yu Ye**. My research combines **condensed matter experiments** with first-principles calculations to investigate emergent interfacial electronic phenomena in low-dimensional quantum materials. More broadly, I am interested in bridging physics, computation, and data-driven methods to accelerate scientific discovery.
 
 
 📄 **[CV](assets/files/CV_qr_eng.pdf)**  
