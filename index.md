@@ -8,7 +8,7 @@ I'm currently a junior majoring in **Physics & Economics** in Yuanpei College, P
 Currently, I am an **undergraduate researcher** working on **electronic transport in two-dimensional van der Waals heterostructures**, advised by **Prof. Yu Ye**. My research combines **condensed matter experiments** with first-principles calculations to investigate emergent interfacial electronic phenomena in low-dimensional quantum materials. More broadly, I am interested in bridging physics, computation, and data-driven methods to accelerate scientific discovery.
 
 
-📄 **[CV](assets/files/CV_qr_eng.pdf)**  
+📄 **[Curriculum Vitae](assets/files/CV_qr.pdf)**  
 
 ---
 
