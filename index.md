@@ -41,10 +41,10 @@ Currently, I am an **undergraduate researcher** working on **electronic transpor
 ---
 
 ## Selected Honors
-
+- **National Scholarship** (Highest honor for undergraduates, **top 0.2%** ), 2026
 - **Yanchuang Group Scholarship**, Peking University, 2025
-- **Second-Class Freshman Scholarship**, Peking University, 2024
 - **Merit Student**, Peking University, 2025
+- **Second-Class Freshman Scholarship**, Peking University, 2024
 - **Major Rank 1/28 (Top 1%)**, Yuanpei College, Peking University
 
 ---
