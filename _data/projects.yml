@@ -1,5 +1,5 @@
 main:
-  - title: "Ariadne"
+  - title: "Ariadne — AI-Assisted Evidence-to-Decision Tool for Scientific Research"
     image: ./assets/projects/AgentHarness/ariadne_concept.png
     code: https://github.com/CatherineWuleyan/Ariadne
   - title: Experimental and Simulative Study on Rabi Splitting and PT Symmetry Breaking
